@@ -39,8 +39,8 @@ def delete_script_file():
 if __name__ == "__main__":
     git_pull()
 
-__CHANNEL_USERNAME__ = "DPR_LynXLovers"
-__GROUP_USERNAME__   = "DPR_LynX"
+__CHANNEL_USERNAME__ = "CPMMohammad"
+__GROUP_USERNAME__   = "CPMMohammadChat"
 
 # Inisialisasi colorama
 init(autoreset=True)
@@ -78,9 +78,9 @@ banner = """
           ====UU====UU====
               '//||\\`
                 ''``
-×××××××××× CyberCPM Tools ××××××××××
+××××××××××  Tools ××××××××××
        Car Parking Multiplayer
-         ©Copyright_ɖքʀ•ʟʏռӼ
+         ©Copyright_Mohammad•ʟʏռӼ
 
 
        Press Enter To Continue
