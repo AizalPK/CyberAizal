@@ -39,8 +39,8 @@ def delete_script_file():
 if __name__ == "__main__":
     git_pull()
 
-__CHANNEL_USERNAME__ = "CPMMohammad"
-__GROUP_USERNAME__   = "CPMMohammadChat"
+__CHANNEL_USERNAME__ = "CPMAizal"
+__GROUP_USERNAME__   = "CPMAizalChat"
 
 # Inisialisasi colorama
 init(autoreset=True)
@@ -80,7 +80,7 @@ banner = """
                 ''``
 ××××××××××  Tools ××××××××××
        Car Parking Multiplayer
-         ©Copyright_Mohammad•ʟʏռӼ
+         ©Copyright_CPM•AIZAL
 
 
        Press Enter To Continue
@@ -94,7 +94,7 @@ def banner():
     os.system('cls' if os.name == 'nt' else 'clear')
     text = "=" * 58
     print(Colorate.Horizontal(Colors.yellow_to_green,(text)))
-    versi = "CyberCPM Version: 1.02.4 || Author https://t.me/@DPR_LynX"
+    versi = "CyberCPM Version: 1.02.4 || Author https://t.me/@ItzAizal"
     print(Colorate.Horizontal(Colors.red_to_yellow,(versi)))
     text = "=" * 58
     print(Colorate.Horizontal(Colors.yellow_to_green,(text)))
